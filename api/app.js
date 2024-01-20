@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     },
     {
       "id":"3",
-      "title":"Testing docker build, class."
+      "title":"Nodemon. try this out"
     }
   ])
 })
